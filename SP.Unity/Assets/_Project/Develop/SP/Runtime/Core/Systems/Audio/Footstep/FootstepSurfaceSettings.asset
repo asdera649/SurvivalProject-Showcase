@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c8eaa1cab5f4fc0a10779a9253297ae, type: 3}
+  m_Name: FootstepSurfaceSettings
+  m_EditorClassIdentifier: 
+  _defaultSurface: 4
+  _surfaceTextures:
+  - _textures:
+    - {fileID: 2800000, guid: f7da0df6eef07a54da01ef21d66a953c, type: 3}
+    _surface: 0
+  - _textures:
+    - {fileID: 2800000, guid: f9349a3fc0deddb4085922fa76102ccc, type: 3}
+    - {fileID: 2800000, guid: 80fa6547aae95c0449fe57416fbbcbc9, type: 3}
+    - {fileID: 2800000, guid: 932f0c2f6d827124ead14f00d271322f, type: 3}
+    _surface: 1
+  - _textures:
+    - {fileID: 2800000, guid: b8bfabb3f57629149a0e44a4e0a01289, type: 3}
+    _surface: 3
+  - _textures:
+    - {fileID: 2800000, guid: 538e0b1a621756444a1b6461aa71bbdc, type: 3}
+    _surface: 4
+  - _textures:
+    - {fileID: 2800000, guid: a16075c3e1b1e8b4ca240da4fe77c283, type: 3}
+    - {fileID: 2800000, guid: 2734a886eac26bf4cb29cbf0b054587c, type: 3}
+    _surface: 5
+  _surfaceMaterials:
+  - _materials:
+    - {fileID: 2100000, guid: 19ac4fcfcf42b4344a6c7d97a5cd61fc, type: 2}
+    _surface: 2
+  - _materials:
+    - {fileID: 2100000, guid: d6698917147315c4292ac59ee14eb432, type: 2}
+    - {fileID: 2100000, guid: 7e222f958e496644791286f3a0b1b1d9, type: 2}
+    - {fileID: 2100000, guid: 1a91efabdfbd10643aab994b91d2db42, type: 2}
+    _surface: 3
+  - _materials:
+    - {fileID: 2100000, guid: 8032eccdf9bf0dd4baddf7bc4e1e3870, type: 2}
+    - {fileID: 2100000, guid: 8dcc7cd3f155b8e49b6d876fc5e785f9, type: 2}
+    _surface: 4
+  - _materials:
+    - {fileID: 2100000, guid: 6c7ab6bebfe42d84194e85337ef9a34c, type: 2}
+    - {fileID: 2100000, guid: f7e961f9e1fb605479a845ebdfa22e2d, type: 2}
+    - {fileID: 2100000, guid: e0a3200dc3b55074b8d8c70e97512e51, type: 2}
+    - {fileID: 2100000, guid: 99ff52d5b1af9f145bf9ca71fc0a9d5e, type: 2}
+    _surface: 5

@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cad2e87f6f4f482781fe2c6d0a958f9c, type: 3}
+  m_Name: ResourcesCollection
+  m_EditorClassIdentifier: 
+  _resources:
+  - _resourcePrefab: {fileID: 959108772135858146, guid: 6680abbae8e93c24399e8a0594f2016d,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 120
+    _castRadius: 0.1
+  - _resourcePrefab: {fileID: 5229012237491042330, guid: 417e267f2118ce54cb5456559446afd3,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 120
+    _castRadius: 0.1
+  - _resourcePrefab: {fileID: 5506212729786722257, guid: 740c0695470a184499a7b24605e09ab4,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 120
+    _castRadius: 0.1
+  - _resourcePrefab: {fileID: 7268258587916600763, guid: f19047916acda5847a031f29214aa64e,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 120
+    _castRadius: 0.1
+  - _resourcePrefab: {fileID: 5935401769079152349, guid: 35b3557eb7ce3ca499bf133531e7ab35,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 120
+    _castRadius: 0.1
+  - _resourcePrefab: {fileID: 6293336129848448001, guid: 36de525aa7d9b66479e175e0fdfecb0b,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 120
+    _castRadius: 0.1
+  - _resourcePrefab: {fileID: 804004455919998518, guid: e8bd09283dfc68d4088214d8de6f3e5d,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 120
+    _castRadius: 0.1
+  - _resourcePrefab: {fileID: 957812831822932392, guid: a1d58cd1be28eb445ae00b6c3172415f,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 120
+    _castRadius: 0.1
+  - _resourcePrefab: {fileID: 865611280206567685, guid: 4a19941e21b70d9499757a5f7d0dd896,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 120
+    _castRadius: 0.1
+  - _resourcePrefab: {fileID: 6765466157531841690, guid: 63a2234a11a2f2c4e843a61c19d948dd,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 120
+    _castRadius: 0.1
+  - _resourcePrefab: {fileID: 2759532153676008570, guid: 96a5091d4bfed1f4a81cd39c3edad11a,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 120
+    _castRadius: 0.1
+  - _resourcePrefab: {fileID: 6152074888403531442, guid: 106fd5914042a8a42af5e79338052a20,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 180
+    _castRadius: 1.2
+  - _resourcePrefab: {fileID: 4800005121548411890, guid: 2a17e6372351f7b4687a4f1c32545ff0,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 210
+    _castRadius: 1.2
+  - _resourcePrefab: {fileID: 9046203633598606677, guid: a57c0a5d293688143863817e77277c05,
+      type: 3}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 0
+    _restoreTime: 240
+    _castRadius: 1.2
+  - _resourcePrefab: {fileID: 0}
+    _pickupResourcePrefab: {fileID: 200532131114652227, guid: bde883b5cab502b4aac0c697d1c589e6,
+      type: 3}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 1
+    _restoreTime: 100
+    _castRadius: 0
+  - _resourcePrefab: {fileID: 0}
+    _pickupResourcePrefab: {fileID: 2662275592590700016, guid: 99126b444873b41449e51ac867e666d3,
+      type: 3}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 1
+    _restoreTime: 100
+    _castRadius: 0
+  - _resourcePrefab: {fileID: 0}
+    _pickupResourcePrefab: {fileID: 819664102331392447, guid: a075d3022c3c03c4790bc2e2da36979b,
+      type: 3}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 1
+    _restoreTime: 100
+    _castRadius: 0
+  - _resourcePrefab: {fileID: 0}
+    _pickupResourcePrefab: {fileID: 819664102331392447, guid: 05fa8c9e1d19a404ba2d92a179c94709,
+      type: 3}
+    _containerPrefab: {fileID: 0}
+    _resourceType: 1
+    _restoreTime: 100
+    _castRadius: 0
+  - _resourcePrefab: {fileID: 0}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 124275320997156653, guid: 258355a3a51978b4a967cbea85de9210,
+      type: 3}
+    _resourceType: 2
+    _restoreTime: 0
+    _castRadius: 0
+  - _resourcePrefab: {fileID: 0}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 6938623474145437900, guid: 3fb1d4e4b8f00b141aefd3916e0477ce,
+      type: 3}
+    _resourceType: 2
+    _restoreTime: 0
+    _castRadius: 0
+  - _resourcePrefab: {fileID: 0}
+    _pickupResourcePrefab: {fileID: 0}
+    _containerPrefab: {fileID: 3119653979661297936, guid: 233555b51a214c84f8b956df0cc9c717,
+      type: 3}
+    _resourceType: 2
+    _restoreTime: 0
+    _castRadius: 0
