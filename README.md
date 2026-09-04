@@ -119,7 +119,7 @@ Bootstrap  →  Loading  →  Meta (main menu)  →  Core (gameplay)
 
 ## Project Structure
 
-```
+```text
 +-- Assets
 |   +-- _Project
 |       +-- Develop

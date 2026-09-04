@@ -120,7 +120,7 @@ Bootstrap  →  Loading  →  Meta (главное меню)  →  Core (гей�
 
 ## Структура проекта
 
-```
+```text
 +-- Assets
 |   +-- _Project
 |       +-- Develop
