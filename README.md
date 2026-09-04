@@ -1,7 +1,7 @@
 
 **Mobile multiplayer online game** · Unity · C# · Mirror Networking
 
-Also available in: [Russian](README_ru.md)
+Also available in: [Russian](README.ru.md)
 
 A persistent, competitive multiplayer survival project built in Unity. Players start with empty hands, gather resources, craft gear, build and defend their base, and fight other players for resources on shared servers running server-authoritative simulation. The project spans the full stack: the game client, the networked server simulation, a lightweight backend service, and cloud save storage.
 
